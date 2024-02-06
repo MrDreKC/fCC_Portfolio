@@ -1,9 +1,9 @@
-Portfolio
+#Portfolio
 
 *update 2/6/2024* I have revamped my portfolio! 😊
 
 
-#So I have finally reached the end of freeCodeCamp's Responsive Web Design course and the last project was of course the portfolio website.
+> So I have finally reached the end of freeCodeCamp's Responsive Web Design course and the last project was of course the portfolio website.
 I will say this is always my weak point, designing a portfolio website not because of creating it but because of thinking out how I want it to look
 knowing full well the idea I have in my head is beyond my skill so it comes down to figuring out how to pull off something at my skill level, and 
 I will admit I am ok with how this turned out.

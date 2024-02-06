@@ -1,4 +1,6 @@
-#Portfolio
+# Portfolio
+
+[Portfolio Link](https://mrdrekc.github.io/fCC_Portfolio/)
 
 *update 2/6/2024* I have revamped my portfolio! 😊
 

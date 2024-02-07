@@ -18,7 +18,7 @@ ScrollReveal({
 });
 
 ScrollReveal().reveal('.intro-content, .heading', { origin: 'top' });
-ScrollReveal().reveal('.project-box, .contact form', { origin: 'bottom' });
+ScrollReveal().reveal('.contact form', { origin: 'bottom' });
 ScrollReveal().reveal('.intro-content h1', { origin: 'left' });
 
 // Typed JS

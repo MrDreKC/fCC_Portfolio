@@ -195,13 +195,20 @@ span {
   align-items: center;
   width: 5rem;
   height: 5rem;
-  background: var(--text-color);
   border-radius: 50%;
+  background: transparent;
+  border: 2px solid var(--main-color);
+  border-radius: 20px;
+  font-size: 2rem;
+  color: #ffffff;
+  margin: 1.5rem 1.5rem 3rem 0;
+  transition: .5s ease;
 }
 
-.project-layer a i {
-  font-size: 2rem;
-  color: var(--second-bg-color); 
+.project-layer a:hover {
+  background: var(--main-color);
+  color: var(--second-bg-color);
+  box-shadow: 0 0 1px var(--main-color);
 }
 
 .contact h2{

@@ -206,8 +206,8 @@ span {
 }
 
 .project-layer a:hover {
-  background: var(--main-color);
-  color: var(--second-bg-color);
+  background: #000000;
+  color: #ffffff;
   box-shadow: 0 0 1px var(--main-color);
 }
 
